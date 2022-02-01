@@ -9,8 +9,7 @@ namespace DegerVeReferansTipler
             /* 
              int, decimal, float, double, bool vb. = değer tip 
              array, class, interface = referans tip
-              
-              
+  
              */
             int sayi1 = 10;
             int sayi2 = 30;
